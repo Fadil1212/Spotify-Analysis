@@ -52,3 +52,7 @@ Ensure the following are installed on your computer:
 5. **Updating the Dashboard**: After running the Python scripts, refresh the data source in PowerBI to reflect any new or updated data through the "Data" tab in PowerBI Desktop.
 
 Adjust the instructions based on the specific features and structure of your dashboard and scripts.
+
+# PowerBI visualisation
+![image](https://github.com/Fadil1212/Spotify-Analysis/assets/99661887/94f54c0e-10ce-4872-bf43-1d9feb05a36a)
+
